@@ -39,7 +39,7 @@ class OnBoardScreen extends StatelessWidget {
               height: 10.h,
             ),
             Text(
-              "You can be sure that you come to\nyour friend who are always glad\nto see you.",
+              "You can be sure that you come to\nyour friend who are always glad\nto see you. ---",
               textAlign: TextAlign.center,
               style: TextStyle(
                 color: MyColors.white,
