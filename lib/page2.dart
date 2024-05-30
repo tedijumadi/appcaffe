@@ -45,7 +45,7 @@ class DashboardScreen extends StatelessWidget {
                   )),
               child: ListView(children: [
                 CardCafe(
-                  name_coffe: "Expresso",
+                  name_coffe: "ExpressoO",
                   size_coffe: "250ml",
                   price_coffe: "\$12",
                   photo_coffe: "assets/images/botol1.png",
