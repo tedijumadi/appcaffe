@@ -86,7 +86,7 @@ class _CounterScreenState extends State<CounterScreen> {
               mainAxisAlignment: MainAxisAlignment.spaceEvenly,
               children: [
                 CardSize(
-                  size_name_coffe: "SmallL",
+                  size_name_coffe: "Small",
                   size_coffe: "250ml",
                   selected: selected,
                   onTap: () {
